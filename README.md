@@ -1,7 +1,7 @@
 # Chest-X-Ray-Covid-19
 ### _WID3008 Image Processing_
 
-Deep learning approaches are widely used to classify positivity of COVID-19 using Chest X-Ray images as it provides promising results with an extended accuracy. In this paper, we proposed transfer learning using Convolutional Neural Network models. The models that I am using is MobileNetV2, ResNet50, DenseNet169 and Xception which supported by sklearn library to train and testing on the dataset which consists of 3 classes, which are COVID-19, Normal and Lung Opacity.
+Deep learning approaches are widely used to classify positivity of COVID-19 using Chest X-Ray images as it provides promising results with an extended accuracy. We proposed transfer learning using Convolutional Neural Network models. The models that I am using is MobileNetV2, ResNet50, DenseNet169 and Xception which supported by sklearn library to train and testing on the dataset which consists of 3 classes, which are COVID-19, Normal and Lung Opacity.
 
 ## Objectives
 - classify the patients intro corresponding classes using their chest x-ray images
